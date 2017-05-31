@@ -2,8 +2,8 @@
 
 Project: Spring Data JPA
 
-Just another standard sample Spring Data JPA application for reference.
-Uses Spring Data JPA to store and retrieve data in a relational database.
+- Just another standard sample Spring Data JPA application for reference.
+- Uses Spring Data JPA to store and retrieve data in a relational database.
 
 # Note
 - Please check pom.xml for a list of dependencies used.
